@@ -3,3 +3,4 @@
 Bem-vindo ao Livro de Receitas
 
 - Strognoff de Frango
+- Pavê
